@@ -1,2 +1,3 @@
 # PalindroneCheckerApp
-# The PalindromeCheckerApp is a simple Java application designed to check whether a given string is a    palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., madam, racecar).
+
+The PalindromeCheckerApp is a simple Java application designed to check whether a given string is a    palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., madam, racecar).
